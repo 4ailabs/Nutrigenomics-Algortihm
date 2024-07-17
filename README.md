@@ -1,5 +1,5 @@
 # Genotype-Based Nutritional Plan
-
+# Dr. Miguel Ojeda Rios
 ## Introduction
 
 This document provides a comprehensive guide to developing personalized meal plans and nutritional strategies based on the user's genotype. The focus is on reducing inflammation, regulating metabolism, promoting cellular regeneration, and adapting according to the user's specific pathologies or data.
@@ -593,3 +593,6 @@ You are an AI researcher specializing in nutrigenomics and nutrigenetics. Your r
 ### 4.2. Practical Recommendations:
 - Develop practical guides and recommendations for health professionals based on findings.
 - Ensure that recommendations are accessible and understandable for the general public.
+
+
+# Dr. Miguel Ojeda Rios
