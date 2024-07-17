@@ -442,4 +442,10 @@ By following these steps, you can effectively create an AI agent in Flowise with
 [Chatbot Link](https://sibca.onrender.com/chatbot/a831288e-ec5e-43f1-9476-b35c0c66c2c2)
 
 
+## Useful Resources
 
+For more information on genotype algorithms, you can visit the following link:
+
+[Genotype Algorithm](https://circle-turtle-rypg.squarespace.com/genotype-algorithm3)
+
+This resource provides detailed insights and tools for understanding and calculating genotypes.
